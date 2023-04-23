@@ -1,3 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@500&display=swap');
+
+h1, button{
+    font-family: 'Carattere', cursive;
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: bold;
+    font-size: 40px;
+}
+nav{
+    font-family: 'Carattere', cursive;
+    font-size: larger;
+}
+p {
+    font-family: 'Merienda', cursive;
+}
 header {
   position: relative;
   background-color: black;
@@ -39,4 +56,16 @@ header .overlay {
 }
 .display-3{
     font-weight: bold;
-}
+    font-size: 100px;
+    text-decoration: underline;
+}#hero {
+    text-align: center;
+    text-transform: capitalize;
+    
+  }
+  #about{
+    margin-top: 40px;
+  }
+  #portfolio{
+    margin-top: 40px;
+  }
