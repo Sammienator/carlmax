@@ -12,7 +12,7 @@ nav{
     font-family: 'Carattere', cursive;
     font-size: larger;
 }
-p {
+p, title, .form-control, label {
     font-family: 'Merienda', cursive;
 }
 header {
@@ -66,6 +66,6 @@ header .overlay {
   #about{
     margin-top: 40px;
   }
-  #portfolio{
+  #portfolio, #contact, footer {
     margin-top: 40px;
   }
