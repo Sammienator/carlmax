@@ -61,6 +61,7 @@ header .overlay {
 }#hero {
     text-align: center;
     text-transform: capitalize;
+    margin: 20px;
     
   }
   #about{
