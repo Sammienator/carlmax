@@ -7,6 +7,7 @@ h1, button{
     font-size: larger;
     font-weight: bold;
     font-size: 40px;
+    text-decoration: underline;
 }
 nav{
     font-family: 'Carattere', cursive;
@@ -67,6 +68,16 @@ header .overlay {
   #about{
     margin-top: 40px;
   }
+  #about1{
+    margin: 30px;
+    margin-top: 20px;
+  }
   #portfolio, #contact, footer {
     margin-top: 40px;
+  }
+  .socials{
+    display: flex;
+    font-size: 40px;
+    justify-content:space-between
+
   }
